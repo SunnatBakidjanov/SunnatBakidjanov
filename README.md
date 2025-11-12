@@ -1,4 +1,5 @@
 <img src="images/city.webp" height="600" alt="SmaYL Avatar" />
+<br/>
 
 # 💫 About Me:
 ## 👋 Привет, я Суннат
@@ -11,8 +12,6 @@
 
 Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе **эстетику**, **производительность** и **логику**.
 
----
-
 ## 👋 Hi, I'm Sunnat
 
 I'm a **𝙍𝙚𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** focused on building **clean**, **engaging**, and **well-structured** web applications.  
@@ -23,8 +22,14 @@ I love **animations**, **thoughtful UI interactions**, and the small **design de
 
 I'm constantly learning and refining my craft - striving to write code that’s not only functional but also **elegant**.
 
+<br/>
+<br/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnat_bakidjanov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnatbackidjanov@gmail.com)
+
+<br/>
+<br/>
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -40,8 +45,10 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 <br/>
 <br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 
