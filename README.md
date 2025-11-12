@@ -1,6 +1,8 @@
 <img src="images/city.webp" height="600" alt="SmaYL Avatar" />
 
 # 💫 About Me:
+
+
 ## 👋 Привет, я Суннат
 
 Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
@@ -26,6 +28,7 @@ I'm constantly learning and refining my craft — striving to write code that’
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnat_bakidjanov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnatbackidjanov@gmail.com) 
 
 # 💻 Tech Stack:
+
 
 ## 🟩 Node.js
 
