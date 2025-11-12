@@ -1,5 +1,23 @@
 # 💫 About Me:
-### Привет 👋  <br>Я - **SmaYL**, фронтенд-разработчик, который любит превращать идеи в живые интерфейсы с помощью движения, цвета и чистого кода.<br><br>Работаю с **React**, **JavaScript**, **TypeScript** и **Node.js**, создавая плавные и эстетичные интерфейсы.  <br>Мне важно, чтобы код был аккуратным, а визуал - вдохновляющим. Люблю анимации и детали, которые делают продукт особенным.<br><br>### Hey there 👋  <br>I'm **SmaYL**, a frontend developer who loves bringing ideas to life through motion, color, and clean code.<br><br>I work mainly with **React**, **JavaScript**, **TypeScript**, and **Node.js**, building interfaces that feel smooth and alive.  <br>I’m all about crafting elegant UI, clear structure, and those tiny details that make users go “wow”.<br><br>Currently exploring new ways to blend creativity with code - from beautiful animations to clean architectural patterns.  
+## 👋 Привет, я SmaYL
+
+Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
+Мои основные инструменты — **React**, **TypeScript**, **JavaScript** и **Node.js**.
+
+Стараюсь писать код, который легко читать и поддерживать.  
+Люблю продуманные интерфейсы, аккуратные анимации и внимание к деталям — именно они создают впечатление «живого» продукта.
+
+Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе эстетику, производительность и логику.
+
+## 👋 Hi, I'm SmaYL
+
+I'm a **Frontend Developer** focused on building clean, engaging, and well-structured web applications.  
+My main tools are **React**, **TypeScript**, **JavaScript**, and **Node.js** — and I enjoy turning complex ideas into simple, intuitive interfaces.
+
+I pay close attention to code quality, architecture, and visual harmony.  
+I love animations, thoughtful UI interactions, and the small design details that make a project feel alive.
+
+I'm constantly learning and refining my craft — striving to write code that’s not only functional but also elegant.
 
 
 ## 🌐 Socials:
