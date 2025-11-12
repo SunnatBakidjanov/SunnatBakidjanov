@@ -1,4 +1,4 @@
-<img src="images/profile.webp" height="600" alt="SmaYL Avatar" />
+<img src="images/city.webp" height="600" alt="SmaYL Avatar" />
 
 # 💫 About Me:
 ## 👋 Привет, я SmaYL
