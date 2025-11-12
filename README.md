@@ -1,7 +1,8 @@
 <img src="images/city.webp" height="600" alt="SmaYL Avatar" />
 
 # 💫 About Me:
-<b/>
+<br/>
+<br/>
 ## 👋 Привет, я Суннат
 
 Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
@@ -21,8 +22,10 @@ I love animations, thoughtful UI interactions, and the small design details that
 
 I'm constantly learning and refining my craft — striving to write code that’s not only functional but also elegant.
 <br/>
+<br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnat_bakidjanov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnatbackidjanov@gmail.com) 
+<br/>
 <br/>
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -39,12 +42,11 @@ I'm constantly learning and refining my craft — striving to write code that’
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br/>
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
-<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SunnatBakidjanov&theme=nightowl&hide_border=false)
-<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
