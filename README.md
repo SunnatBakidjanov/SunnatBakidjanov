@@ -44,7 +44,11 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 <br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+
 ---
+
 ![](https://nirzak-streak-stats.vercel.app/?user=SunnatBakidjanov&theme=react&hide_border=false)
+
 ---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
