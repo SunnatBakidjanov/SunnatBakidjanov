@@ -3,8 +3,8 @@
 # 💫 About Me:
 ## 👋 Привет, я Суннат
 
-Я — <span style="color: #61DBFB">Frontend-разработчик</span>, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
-Мои основные инструменты — **React**, **TypeScript**, **JavaScript** и **Node.js**.
+Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
+Мои основные инструменты — **⚛️ React**, **🔷 TypeScript**, **⚡ JavaScript** и **🟩 Node.js**.
 
 Стараюсь писать код, который легко читать и поддерживать.  
 Люблю продуманные интерфейсы, аккуратные анимации и внимание к деталям — именно они создают впечатление «живого» продукта.
@@ -14,7 +14,7 @@
 ## 👋 Hi, I'm Sunnat
 
 I'm a **Frontend Developer** focused on building clean, engaging, and well-structured web applications.  
-My main tools are **React**, **TypeScript**, **JavaScript**, and **Node.js** — and I enjoy turning complex ideas into simple, intuitive interfaces.
+My main tools are **⚛️ React**, **🔷 TypeScript**, **⚡ JavaScript** и **🟩 Node.js** — and I enjoy turning complex ideas into simple, intuitive interfaces.
 
 I pay close attention to code quality, architecture, and visual harmony.  
 I love animations, thoughtful UI interactions, and the small design details that make a project feel alive.
