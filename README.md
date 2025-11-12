@@ -53,6 +53,6 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=reactl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
