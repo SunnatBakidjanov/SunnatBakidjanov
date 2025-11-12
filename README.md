@@ -1,3 +1,5 @@
+![Alt text]([https://link-to-your-image.com/image.png](https://ibb.co/nqrTgtD2))
+
 # 💫 About Me:
 ## 👋 Привет, я SmaYL
 
