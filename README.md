@@ -1,4 +1,4 @@
-![My Avatar](images/profile.webp)
+<img src="./assets/avatar.png" width="200" alt="SmaYL Avatar" />
 
 # 💫 About Me:
 ## 👋 Привет, я SmaYL
