@@ -1,7 +1,7 @@
 <img src="images/city.webp" height="600" alt="SmaYL Avatar" />
 
 # 💫 About Me:
-## 👋 Привет, я SmaYL
+## 👋 Привет, я Суннат
 
 Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
 Мои основные инструменты — **React**, **TypeScript**, **JavaScript** и **Node.js**.
@@ -11,7 +11,7 @@
 
 Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе эстетику, производительность и логику.
 
-## 👋 Hi, I'm SmaYL
+## 👋 Hi, I'm Sunnat
 
 I'm a **Frontend Developer** focused on building clean, engaging, and well-structured web applications.  
 My main tools are **React**, **TypeScript**, **JavaScript**, and **Node.js** — and I enjoy turning complex ideas into simple, intuitive interfaces.
