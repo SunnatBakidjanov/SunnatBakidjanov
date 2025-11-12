@@ -1,4 +1,4 @@
-![Alt text]([https://link-to-your-image.com/image.png](https://ibb.co/nqrTgtD2))
+<img src="images/profile.webp" alt="SmaYL Avatar" />
 
 # 💫 About Me:
 ## 👋 Привет, я SmaYL
