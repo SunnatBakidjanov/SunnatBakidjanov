@@ -1,32 +1,32 @@
 <img src="images/city.webp" height="600" alt="SmaYL Avatar" />
 
-# 💫 About Me:
+# 💫 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:
 ## 👋 Привет, я Суннат
 
-Я - **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, который создаёт **чистые**, **структурированные** и **визуально приятные** веб-приложения.  
-Мои основные инструменты - **⚛️ 𝙍𝙚𝙖𝙘𝙩**, **🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩**, **⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩** и **🟩 𝙉𝙤𝙙𝙚.𝙟𝙨**.
+Я - **Frontend-разработчик**, который создаёт **чистые**, **структурированные** и **визуально приятные** веб-приложения.  
+Мои основные инструменты - ⚛️ 𝙍𝙚𝙖𝙘𝙩, 🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, ⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩 и 🟩 𝙉𝙤𝙙𝙚.𝙟𝙨.
 
-Стараюсь писать код, который легко читать и поддерживать.  
-Люблю продуманные интерфейсы, аккуратные анимации и внимание к деталям - именно они создают впечатление «живого» продукта.
+Я уделяю пристальное внимание **качеству кода**, **архитектуре** и **визуальной гармонии**.
+Мне нравятся **анимации**, **продуманные интерфейсы** и небольшие **детали дизайна**, которые делают проект живым.
 
-Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе **эстетику**, **производительность** и **логику**.
+Я постоянно учусь и совершенствую свое мастерство, стремясь писать код, который не только функционален, но и **элегантен**.
 
 ## 👋 Hi, I'm Sunnat
 
-I'm a **𝙍𝙚𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** focused on building **clean**, **engaging**, and **well-structured** web applications.  
-My main tools are **⚛️ 𝙍𝙚𝙖𝙘𝙩**, **🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩**, **⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩**, and **🟩 𝙉𝙤𝙙𝙚.𝙟𝙨**.
+I'm a **Frontend-Developer** focused on building **clean**, **engaging**, and **well-structured** web applications.  
+My main tools are ⚛️ 𝙍𝙚𝙖𝙘𝙩, 🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, ⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩, and 🟩 𝙉𝙤𝙙𝙚.𝙟𝙨.
 
 I pay close attention to **code quality**, **architecture**, and **visual harmony**.  
 I love **animations**, **thoughtful UI interactions**, and the small **design details** that make a project feel alive.
 
 I'm constantly learning and refining my craft - striving to write code that’s not only functional but also **elegant**.
 
-## 🌐 Socials:
+## 🌐 𝙎𝙤𝙘𝙞𝙖𝙡𝙨:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunnat_bakidjanov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnatbackidjanov@gmail.com)
 
 <br/>
 
-# 💻 Tech Stack:
+# 💻 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 
 <br/>
 
-# 📊 GitHub Stats:
+# 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨:
 ![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 
 ---
