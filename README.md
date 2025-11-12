@@ -44,7 +44,7 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 <br/>
 
 # 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨:
-![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=SunnatBakidjanov&theme=react&hide_border=false)
 
 ---
 
@@ -52,4 +52,4 @@ I'm constantly learning and refining my craft - striving to write code that’s 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnatBakidjanov&theme=react&hide_border=false&layout=compact)
