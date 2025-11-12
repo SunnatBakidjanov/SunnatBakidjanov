@@ -3,22 +3,26 @@
 # 💫 About Me:
 ## 👋 Привет, я Суннат
 
-Я — **Frontend-разработчик**, который создаёт чистые, структурированные и визуально приятные веб-приложения.  
-Мои основные инструменты — **⚛️ React**, **🔷 TypeScript**, **⚡ JavaScript** и **🟩 Node.js**.
+Я — **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, который создаёт **чистые**, **структурированные** и **визуально приятные** веб-приложения.  
+Мои основные инструменты — **⚛️ 𝙍𝙚𝙖𝙘𝙩**, **🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩**, **⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩** и **🟩 𝙉𝙤𝙙𝙚.𝙟𝙨**.
 
 Стараюсь писать код, который легко читать и поддерживать.  
 Люблю продуманные интерфейсы, аккуратные анимации и внимание к деталям — именно они создают впечатление «живого» продукта.
 
-Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе эстетику, производительность и логику.
+Постоянно совершенствуюсь и изучаю новые подходы, чтобы соединить в работе **эстетику**, **производительность** и **логику**.
+
+---
+
 ## 👋 Hi, I'm Sunnat
 
-I'm a **Frontend Developer** focused on building clean, engaging, and well-structured web applications.  
-My main tools are **⚛️ React**, **🔷 TypeScript**, **⚡ JavaScript** и **🟩 Node.js** — and I enjoy turning complex ideas into simple, intuitive interfaces.
+I'm a **𝙍𝙚𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧** focused on building **clean**, **engaging**, and **well-structured** web applications.  
+My main tools are **⚛️ 𝙍𝙚𝙖𝙘𝙩**, **🔷 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩**, **⚡ 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩**, and **🟩 𝙉𝙤𝙙𝙚.𝙟𝙨**.
 
-I pay close attention to code quality, architecture, and visual harmony.  
-I love animations, thoughtful UI interactions, and the small design details that make a project feel alive.
+I pay close attention to **code quality**, **architecture**, and **visual harmony**.  
+I love **animations**, **thoughtful UI interactions**, and the small **design details** that make a project feel alive.
 
-I'm constantly learning and refining my craft — striving to write code that’s not only functional but also elegant.
+I'm constantly learning and refining my craft — striving to write code that’s not only functional but also **elegant**.
+
 <br/>
 <br/>
 ## 🌐 Socials:
